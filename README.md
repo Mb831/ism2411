@@ -4,6 +4,8 @@
 
 **Semester:** Fall 2026
 
+**Instructor:** Markum Reed
+
 ## About This Repo
 
 This repository contains my Python assignments for ISM2411. Each folder contains work from a different module.
